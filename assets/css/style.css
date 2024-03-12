@@ -1,0 +1,96 @@
+body {
+    font-family: "Raleway", "Open Sans";
+    color:white;
+    background-color: black;
+   }
+  
+   .navbar {
+    margin: 25px;
+    background-color: transparent !important;
+    color:white;
+  }
+ /*CARRUSEL IMAGENES*/
+  .carousel-inner .carousel-item {
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  /*QUIENES SOMOS*/
+  .fa-iconos{
+    color:aliceblue;
+    font-size: 2em;
+  }
+  .hr_linea{
+    background-color: #15c3de;
+    height:0.2em;
+  }
+  /*CARDS*/
+  .card-text{
+    font-size: 15px;
+
+  }
+  .card0{
+    background-color: black;
+  }
+  .card-body1{  
+    background-color: #16a2b7;  
+    padding:0;
+    }
+  .card-body2
+  {  background-color: black;
+    color:white;
+    padding:0;
+    margin:0;
+    text-align:left;
+  }
+  .card-body0
+  {  background-color:white;;  
+    margin-top: 1.5em;
+    }
+  .card-body3
+  { background-color: #15c3de;  
+    color:white;
+    text-align:left;
+    height:17em;
+    padding: 0.5em;
+    
+  }
+  .card-imagen{
+    height: 135px;
+  }
+  /*FORMULARIO CONTACTO*/
+  .contacto{
+    font-family: "Raleway", "Open Sans",
+  }
+  .mi-boton-enviar{
+    width: 100px;
+    margin:10px;
+    padding:10px;
+    background-color: #15c3de;
+  }
+  /* FOOTER*/
+  .page-footer{
+    text-align: center;
+    background-color: #16a2b7;
+  }
+  footer {
+    color:white;
+    font-weight: bold;
+    background-color: #16a2b7;
+    font-family: "Raleway";
+    font-size: 400;
+    position: absolute;
+    width: 100%;
+    padding:2px
+   }
+   /* BOTON DE REDES SOCIALES*/
+  .btn{
+    float: right;
+    width: 40px;
+    color:#16a2b7;
+    margin:10px;
+    padding:10px;
+    background-color: white;
+  }
